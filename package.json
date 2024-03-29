@@ -1,0 +1,16 @@
+{
+  "name": "bootdev_web_crawler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
